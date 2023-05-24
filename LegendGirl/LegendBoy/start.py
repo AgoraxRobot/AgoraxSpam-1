@@ -1,7 +1,12 @@
-from pyrogram.types import InlineKeyboardButton
+from pyrogram import Client, filters
+from pyrogram.types import InlineKeyboardMarkup, Message
 
-async def start_cmd(Legend):
-    x = await Legend.get_me()
+from Data import Data
+from LegendGirl.Config import *
+
+if START_OP:
+    START_OP = START_OP
+else:
     START_OP = [
         [
             InlineKeyboardButton(
