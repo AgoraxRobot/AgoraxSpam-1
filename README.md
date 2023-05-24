@@ -1,6 +1,3 @@
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=AgoraxRobot&repo=AgoraxSpam&theme=lite)
-
-[![LEGENDBOTSPAM](https://te.legra.ph/file/8f609a79c64621ad00dd0.jpg)](https://github.com/AgoraxRobot/AgoraxSpam)
 
 <h1 align="center">
 <b> 『ẞø†Spâm』 </b>
@@ -21,7 +18,7 @@
 
 ## Status Of Bot 
 <p align="left">
-<a href="https://github.com/LEGEND-AI/BOTSPAM/network/members"><img src="https://img.shields.io/github/forks/LEGEND-AI/BOTSPAM?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/LEGEND-AI/BOTSPAM/stargazers"><img src="https://img.shields.io/github/stars/LEGEND-AI/BOTSPAM?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/LEGEND-AI/BOTSPAM"></a><p align="left"><a href="https://github.com/LEGEND-AI/BOTSPAM?"></a>
+<a href="https://github.com/AgoraxRobot/AgoraxSpam/network/members"><img src="https://img.shields.io/github/forks/AgoraxRobot/AgoraxSpam?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/AgoraxRobot/AgoraxSpam/stargazers"><img src="https://img.shields.io/github/stars/AgoraxRobot/AgoraxSpam?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/LEGEND-AI/BOTSPAM"></a><p align="left"><a href="https://github.com/AgoraxRobot/AgoraxSpam?"></a>
   
 -------
 
