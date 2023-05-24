@@ -35,19 +35,19 @@ BOT_TOKEN23 = config("BOT_TOKEN23", default=None)
 BOT_TOKEN24 = config("BOT_TOKEN24", default=None)
 BOT_TOKEN25 = config("BOT_TOKEN25", default=None)
 try:
-    SUDO_USERS = str(getenv("SUDO_USERS", "123 456")).split(" ")
+    SUDO_USERS = str(getenv("SUDO_USERS", "6181817811")).split("6272710217")
 except Exception:
-    SUDO_USERS = str(getenv("SUDO_USERS", "123 456"))
+    SUDO_USERS = str(getenv("SUDO_USERS", "6181817811"))
 
-START_MESSAGE = getenv("START_MESSAGE", None)
+START_MESSAGE = getenv("START_MESSAGE","HEY BRO USE THIS BOT TO MANAGE YOUR BOT @KIMJIKOIN_BOT")
 
-PING_PIC = getenv("PING_PIC", None)
+PING_PIC = getenv("PING_PIC","https://te.legra.ph/file/8f609a79c64621ad00dd0.jpg")
 
-START_PIC = getenv("START_PIC", None)
+START_PIC = getenv("START_PIC","https://te.legra.ph/file/8f609a79c64621ad00dd0.jpg")
 
 
 HELP_MSG = getenv("HELP_MSG", None)
-HELP_PIC = getenv("HELP_PIC", "https://graph.org/file/89ed7d3a2bd8aa2c61385.jpg")
+HELP_PIC = getenv("HELP_PIC", "https://te.legra.ph/file/8f609a79c64621ad00dd0.jpg")
 LOG_CHANNEL = getenv("LOG_CHANNEL", None)
 
 HANDLER = getenv("HANDLER", "/")
