@@ -16,7 +16,7 @@ from ..core.clients import *
 if PING_PIC:
     PING_PIC = PING_PIC
 else:
-    PING_PIC = "https://graph.org/file/8b665536aee97ee58f5ca.jpg"
+    PING_PIC = "https://te.legra.ph/file/8f609a79c64621ad00dd0.jpg"
 
 
 @Client.on_message(filters.user(sudos) & filters.command(["ping"], prefixes=HANDLER))
@@ -27,7 +27,7 @@ async def ping(_, e: Message):
     end = datetime.datetime.now()
     ms = (end - start).microseconds / 1000
     await a.delete()
-    ping_temp = f"🏓 Ping Pong\n\n✨ Ping: {ms}\n✨Uptime: {uptime}"
+    ping_temp = f"🏓 HEY JAANI MAI ZINDA HU TU PHELE YE JOIN KAR @TEAMAGORA\n\n✨ CPU: {ms}\n✨Uptime: {uptime}"
     for i in range(1, 26):
         lol = globals()[f"Client{i}"]
         if lol is not None:
@@ -44,7 +44,7 @@ async def ping(_, e: Message):
 )
 async def restarter(Legend: Client, message: Message):
     await message.reply_text(
-        f"**Bot Is Restarting**\n\n Please Wait 5 min till bot is restart.\nAfter 5 Min Type {HANDLER}ping"
+        f"**Bot Is Restarting**\n\n PAANCH MINIT RUK BHAI RESTART HORAH.\nAfter 5 Min Type {HANDLER}ping"
     )
     try:
         await Legend.stop()
