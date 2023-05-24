@@ -1,6 +1,6 @@
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=LEGEND-AI&repo=BOTSPAM&theme=lite)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=AgoraxRobot&repo=AgoraxSpam&theme=lite)
 
-[![LEGENDBOTSPAM](https://te.legra.ph/file/8f609a79c64621ad00dd0.jpg)](https://github.com/LEGEND-AI/BOTSPAM)
+[![LEGENDBOTSPAM](https://te.legra.ph/file/8f609a79c64621ad00dd0.jpg)](https://github.com/AgoraxRobot/AgoraxSpam)
 
 <h1 align="center">
 <b> 『ẞø†Spâm』 </b>
