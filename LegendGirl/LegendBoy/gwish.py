@@ -160,7 +160,7 @@ async def gdnightcmd(Legend: Client, e: Message):
                     if lol is not None:
                         await lol.send_message(e.chat.id, wishgdnight)
     elif "-u" not in flag:
-        night_pic = "https://graph.org/file/f1c39dac664a45be949fd.jpg"
+        night_pic = "https://te.legra.ph/file/106dba8a895e0d106d3e4.jpg"
         try:
             counts = int(text[0])
         except ValueError:
